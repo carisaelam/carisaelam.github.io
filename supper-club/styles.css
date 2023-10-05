@@ -560,9 +560,6 @@ input, textarea {
 
 @media only screen and (min-width: 1080px) {
 
-* {
-    font-size: 1.25rem;
-}
 
 .mission-text-block {
     width: 50%; 
